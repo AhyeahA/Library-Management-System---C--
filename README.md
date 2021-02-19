@@ -1,2 +1,7 @@
 # Library Management System - C++
- A small project in which users can return and borrow books.
+ A c++ project which includes the following functions:
+ -borrowing and returning books
+ -adding or removing library members
+ -listing all books available in the library
+ -listing all current library members
+ -listing books that are borrowed or returned
