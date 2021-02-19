@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\Catalog.h(44,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\Catalog.h(83,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\Catalog.h(89,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\Catalog.h(98,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\Catalog.h(111,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\Catalog.h(120,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\Catalog.h(130,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\ReadershipList.h(47,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\ReadershipList.h(56,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\ReadershipList.h(62,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\ReadershipList.h(72,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\ReadershipList.h(90,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\ReadershipList.h(100,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\ReadershipList.h(111,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\ListofLoans.h(45,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\ListofLoans.h(55,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\ListofLoans.h(72,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\ListofLoans.h(113,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\ListofLoans.h(125,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alhar\Desktop\Github Projects\Library Managment System\Library Managment System\ListofLoans.h(152,21): warning C4018: '<': signed/unsigned mismatch
+  Library Managment System.vcxproj -> C:\Users\alhar\Desktop\Github Projects\Library Managment System\Debug\Library Managment System.exe
